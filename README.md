@@ -46,9 +46,7 @@
   <a href="akramalmnajed@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="akramalmnajed@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  </a>
+  
   <a href="https://www.facebook.com/Akram.Almnajed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
@@ -64,6 +62,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/akramalmnajed/akramalmnajed/output/snake.svg" alt="Snake animation" />
 
 ###

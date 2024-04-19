@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Akram Almnajed i am from Syria , a 4th year Information Engineering student at Damascus university .</h3>
+<h3 align="left">Hi 👋! My name is Akram Almnajed , a 4th year Information Engineering student at Damascus university .</h3>
 
 ###
 

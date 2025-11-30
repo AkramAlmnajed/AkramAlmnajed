@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Akram Almnajed , a 5th year Information Engineering student at Damascus university .</h3>
+<h3 align="left">Hi 👋! I'm Akram Almnajed — a Frontend Developer specializing in React.js, Next.js, and TypeScript. I build fast, seamless, and scalable web applications.</h3>
 
 ###
 

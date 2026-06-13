@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akram Almnajed</h1>
-<h3 align="center">Frontend Developer · React.js · Next.js · TypeScript</h3>
+<!-- ===== HERO / MASTHEAD ===== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/masthead.svg" alt="Akram Almnajed — Frontend Developer" width="100%" />
+</div>
+
 <p align="center">I build fast, seamless, and scalable web applications.</p>
 
 <p align="center">
@@ -22,15 +25,18 @@
 
 ### 📊 GitHub Stats
 
+<!-- Stats + Languages (side by side) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akramalmnajed&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=false&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramalmnajed&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/languages.svg" alt="Most Used Languages" width="49%" />
 </div>
 
+<!-- Streak (full width) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akramalmnajed&theme=dracula&hide_border=true&mode=daily" alt="streak" />
+  <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/streak.svg" alt="Contribution Streak" width="100%" />
 </div>
 
+<!-- Trophies (still the old dracula theme — see note) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akramalmnajed&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 </div>

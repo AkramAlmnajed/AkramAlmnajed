@@ -1,8 +1,8 @@
 <h3 align="left">Hi 👋! I'm Akram Almnajed — a Frontend Developer specializing in React.js, Next.js, and TypeScript. I build fast, seamless, and scalable web applications.</h3>
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramalmnajed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=21600&v=3" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=akramalmnajed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramalmnajed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&v=2" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=akramalmnajed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph"  />
 </div>
 ###
 <img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw0ZWR3YXZzOTBvc3k5Mmpib2hvdGFpbGpndXluODRvaGxjb3p2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif"  />

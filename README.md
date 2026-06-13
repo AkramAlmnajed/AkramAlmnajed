@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/streak.svg" alt="Contribution Streak" width="100%" />
 </div>
 
-<!-- Trophies (still the old dracula theme — see note) -->
-   <div align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=akramalmnajed&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-   </div>
+<!-- Achievements -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkramAlmnajed/AkramAlmnajed/main/trophies.svg" alt="Achievements" width="100%" />
+</div>

@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Frontend | Mobile | Languages | Tools & Data |
 |----------|--------|-----------|--------------|
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <!-- Stats + Languages (side by side) -->
 <div align="center">
